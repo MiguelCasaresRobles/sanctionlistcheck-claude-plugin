@@ -1,0 +1,24 @@
+{
+  "name": "sanctionlistcheck",
+  "owner": {
+    "name": "SanctionListCheck",
+    "email": "support@sanctionlistcheck.com"
+  },
+  "description": "The SanctionListCheck plugin for Claude.",
+  "plugins": [
+    {
+      "name": "sanctionlistcheck",
+      "source": "./plugins/sanctionlistcheck",
+      "description": "Screen names against 10 official sanctions lists, including OFAC SDN, the EU, the UK and the UN. Each hit is a possible match for a person to review.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "sanctions",
+        "sanctions-screening",
+        "ofac",
+        "kyc",
+        "aml"
+      ]
+    }
+  ]
+}

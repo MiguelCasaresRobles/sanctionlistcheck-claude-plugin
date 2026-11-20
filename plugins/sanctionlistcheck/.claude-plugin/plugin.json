@@ -1,0 +1,25 @@
+{
+  "name": "sanctionlistcheck",
+  "version": "1.0.0",
+  "description": "Screen names against 10 official sanctions lists, including OFAC SDN, the EU, the UK and the UN. Each hit is a possible match for a person to review.",
+  "author": {
+    "name": "SanctionListCheck",
+    "email": "support@sanctionlistcheck.com",
+    "url": "https://sanctionlistcheck.com"
+  },
+  "homepage": "https://sanctionlistcheck.com/mcp",
+  "repository": "https://github.com/MiguelCasaresRobles/sanctionlistcheck-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "sanctions",
+    "sanctions-screening",
+    "ofac",
+    "kyc",
+    "aml"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "documentationUrl": "https://sanctionlistcheck.com/mcp",
+  "supportUrl": "mailto:support@sanctionlistcheck.com",
+  "privacyPolicyUrl": "https://sanctionlistcheck.com/privacy",
+  "termsOfServiceUrl": "https://sanctionlistcheck.com/terms"
+}

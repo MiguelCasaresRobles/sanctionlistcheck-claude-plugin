@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sanctionlistcheck": {
+      "type": "http",
+      "url": "https://sanctionlistcheck.com/mcp"
+    }
+  }
+}
