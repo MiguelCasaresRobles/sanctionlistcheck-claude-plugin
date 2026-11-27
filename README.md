@@ -13,6 +13,7 @@ Each hit is a possible match for a person to review.
 
 The plugin, its skill and its setup: [plugins/sanctionlistcheck/README.md](plugins/sanctionlistcheck/README.md).
 Guide: https://sanctionlistcheck.com/mcp
+Glama listing: https://glama.ai/mcp/connectors/com.sanctionlistcheck/sanctionlistcheck
 
 ## License
 
